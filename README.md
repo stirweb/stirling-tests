@@ -1,1 +1,1 @@
-# Stirling University website
+# University of Stirling website
