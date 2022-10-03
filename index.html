@@ -10,18 +10,20 @@
 	<meta name="description" content="University of Stirling">
 
 	<link rel="stylesheet" href="./groovy.css">
+	<link rel="stylesheet" href="./medias/Categorised/Stirling/dist/css/test.css">
+
 </head>
 
 <body class="border-gradient">
 	<main>
-		<p>Hello world. Ryan was here! Is Robert or Lucy there?</p>
+		<p class="test">Hello world. Ryan was here! Is Robert or Lucy there?</p>
 		<p>Hello Ryan. Robert was here too! Is Lucy here?</p>
 		<p>…</p>
 	</main>
 </body>
 
 <script>
-	(()=>{
+	(() => {
 		var el = document.querySelector("p:last-child");
 		el && (el.contentEditable = true) && el.focus();
 	})();
