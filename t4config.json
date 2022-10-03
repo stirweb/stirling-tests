@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "Stirling Environment": "7c6d4506-152e-49c2-adfd-f6fba24deb76"
+  },
+  "assets": {
+    "contentLayouts": [],
+    "pageLayouts": [],
+    "media": [
+      {
+        "id": 152533,
+        "description": "test.css",
+        "projectPath": "medias/Categorised/Stirling/dist/css/test.css"
+      }
+    ]
+  }
+}
