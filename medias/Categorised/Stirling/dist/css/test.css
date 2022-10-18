@@ -1,3 +1,11 @@
-.u-black {
-  color: #3a3c39 !important;
+.test {
+  color: green;
+}
+
+.test2 {
+  color: red;
+}
+
+.test3 {
+  color: yellow;
 }

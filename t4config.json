@@ -1,15 +1,16 @@
 {
   "environments": {
-    "Stirling Environment": "7c6d4506-152e-49c2-adfd-f6fba24deb76"
+    "Stirling Environment": "7c6d4506-152e-49c2-adfd-f6fba24deb76",
+    "Stirling Test Environment": "a059dae8-8b8d-424d-821b-95436291ebed"
   },
   "assets": {
     "contentLayouts": [],
     "pageLayouts": [],
     "media": [
       {
-        "id": 152534,
-        "description": "test2.css",
-        "projectPath": "medias/Categorised/Stirling/dist/css/test2.css"
+        "id": 152533,
+        "description": "test.css",
+        "projectPath": "medias/Categorised/Stirling/dist/css/test.css"
       }
     ]
   }
