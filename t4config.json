@@ -16,6 +16,16 @@
         "id": 152536,
         "description": "test2.js",
         "projectPath": "medias/Categorised/Stirling/dist/js/test2.js"
+      },
+      {
+        "id": 152533,
+        "description": "test.css",
+        "projectPath": "medias/Categorised/Stirling/dist/css/test.css"
+      },
+      {
+        "id": 152534,
+        "description": "test2.css",
+        "projectPath": "medias/Categorised/Stirling/dist/css/test2.css"
       }
     ]
   }
