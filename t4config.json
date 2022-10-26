@@ -8,20 +8,9 @@
     "pageLayouts": [],
     "media": [
       {
-        "id": 152535,
-        "projectPath": "medias/Categorised/Stirling/dist/js/test.js"
-      },
-      {
-        "id": 152536,
-        "projectPath": "medias/Categorised/Stirling/dist/js/test2.js"
-      },
-      {
         "id": 152533,
+        "description": "test.css",
         "projectPath": "medias/Categorised/Stirling/dist/css/test.css"
-      },
-      {
-        "id": 152534,
-        "projectPath": "medias/Categorised/Stirling/dist/css/test2.css"
       }
     ]
   }
